@@ -1,0 +1,29 @@
+{
+      "father":
+      [
+            {"Sultan": "Sarfaraj"},
+            {"Sultan": "Shamsad"},
+            {"Sultan": "Ibraj"},
+            {"Sarfaraj": "Shadab"},
+            {"Sarfaraj": "Sahil"},
+            {"Shamsad": "Akbar"},
+            {"Shamsad": "Asgar"},
+            {"Shamsad": "Ashraf"},
+            {"Shamsad": "Noor"},
+            {"Shamsad": "Kamal"},
+            {"Ibraj": "Ibrahim"}
+      ],
+      "mother":
+      [
+            {"Masluma": "Sarfaraj"},
+            {"Masluma": "Shamsad"},
+            {"Masluma": "Ibraj"},
+            {"pravin": "Sahil"},
+            {"pravin": "Shadab"},
+            {"Najia": "Asgar"},
+            {"Najia": "Ashraf"},
+            {"Najia": "Noor"},
+            {"Najia": "Kamal"},
+            {"Nusrat": "Ibrahim"}
+      ]
+}
